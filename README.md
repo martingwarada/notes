@@ -1,0 +1,2 @@
+# notes
+Scala personal notes
